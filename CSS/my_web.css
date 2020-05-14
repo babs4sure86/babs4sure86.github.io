@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    font-size: 60px;
+}
+
+h2 {
+    color : green
+}
+
+footer {
+    color: white;
+    background-color: grey;
+    text-align: center;
+    
+}
+
+header h3 {
+    text-align: center;
+}
+
+img {
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color: goldenrod;
+    text-align: center;
+}
